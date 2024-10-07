@@ -1,2 +1,2 @@
 # Materials_Theory_Sim
-MATE60002
+Assignment and coursework tasks for the MATE60002 Theory & Simulation of Materials Module
